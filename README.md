@@ -6,8 +6,7 @@ A simple colorscheme for Atuin.
 
 ## Install
 
-- Copy kanagawa.toml in your `~/.config/atuin/themes` (or in `$ATUIN_THEME_DIR`
-  if set).
+- Copy `kanagawa.toml` in `~/.config/atuin/themes` (or in `$ATUIN_THEME_DIR` if set).
 
 - Add these lines to `~/.config/atuin/config.toml`
 
